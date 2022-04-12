@@ -1,0 +1,17 @@
+{
+  "name": "newsletter-signup",
+  "version": "1.0.0",
+  "description": "Newsletter Signup Page",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Esme Knight",
+  "license": "ISC",
+  "dependencies": {
+    "@mailchimp/mailchimp_marketing": "^3.0.74",
+    "axios": "^0.26.1",
+    "bootstrap": "^5.1.3",
+    "express": "^4.17.3"
+  }
+}
